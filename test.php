@@ -6,4 +6,4 @@ function a($uid) {
   }
   echo 'true';
 }
-a(163);
+a('163');
